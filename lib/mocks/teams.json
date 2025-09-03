@@ -1,0 +1,178 @@
+{
+  "teams": [
+    {
+      "id": 1,
+      "name": "Mumbai Indians",
+      "shortName": "MI",
+      "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/c/cd/Mumbai_Indians_Logo.svg/1200px-Mumbai_Indians_Logo.svg.png",
+      "homeVenue": "Wankhede Stadium, Mumbai",
+      "captain": "Hardik Pandya",
+      "coach": "Mark Boucher",
+      "owner": "Reliance Industries",
+      "founded": 2008,
+      "titles": 5,
+      "lastTitle": 2020,
+      "primaryColor": "#004BA0",
+      "secondaryColor": "#D71920",
+      "players": [
+        { "name": "Hardik Pandya", "role": "All-rounder", "nationality": "Indian", "battingStyle": "Right-handed", "bowlingStyle": "Right-arm fast-medium" },
+        { "name": "Rohit Sharma", "role": "Batsman", "nationality": "Indian", "battingStyle": "Right-handed", "bowlingStyle": "Right-arm off-break" },
+        { "name": "Jasprit Bumrah", "role": "Bowler", "nationality": "Indian", "battingStyle": "Right-handed", "bowlingStyle": "Right-arm fast" },
+        { "name": "Suryakumar Yadav", "role": "Batsman", "nationality": "Indian", "battingStyle": "Right-handed", "bowlingStyle": "Right-arm leg-break" }
+      ],
+      "stats": {
+        "matchesPlayed": 14,
+        "wins": 7,
+        "losses": 7,
+        "winPercentage": 50.0,
+        "totalRuns": 2456,
+        "totalWickets": 89
+      }
+    },
+    {
+      "id": 2,
+      "name": "Chennai Super Kings",
+      "shortName": "CSK",
+      "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/2/2b/Chennai_Super_Kings_Logo.svg/800px-Chennai_Super_Kings_Logo.svg.png",
+      "homeVenue": "M. A. Chidambaram Stadium, Chennai",
+      "captain": "MS Dhoni",
+      "coach": "Stephen Fleming",
+      "owner": "India Cements",
+      "founded": 2008,
+      "titles": 5,
+      "lastTitle": 2023,
+      "primaryColor": "#FFFF00",
+      "secondaryColor": "#000080",
+      "players": [
+        { "name": "MS Dhoni", "role": "Wicket-keeper", "nationality": "Indian", "battingStyle": "Right-handed", "bowlingStyle": "Right-arm medium" },
+        { "name": "Ruturaj Gaikwad", "role": "Batsman", "nationality": "Indian", "battingStyle": "Right-handed", "bowlingStyle": "Right-arm off-break" },
+        { "name": "Ravindra Jadeja", "role": "All-rounder", "nationality": "Indian", "battingStyle": "Left-handed", "bowlingStyle": "Left-arm orthodox" },
+        { "name": "Deepak Chahar", "role": "Bowler", "nationality": "Indian", "battingStyle": "Right-handed", "bowlingStyle": "Right-arm medium-fast" }
+      ],
+      "stats": {
+        "matchesPlayed": 14,
+        "wins": 8,
+        "losses": 6,
+        "winPercentage": 57.1,
+        "totalRuns": 2389,
+        "totalWickets": 92
+      }
+    },
+    {
+      "id": 3,
+      "name": "Delhi Capitals",
+      "shortName": "DC",
+      "logo": "https://i.pinimg.com/564x/95/7f/9c/957f9cc51341fc7b3d06ad6a2129d5cc.jpg",
+      "homeVenue": "Arun Jaitley Stadium, Delhi",
+      "captain": "Rishabh Pant",
+      "coach": "Ricky Ponting",
+      "owner": "GMR Group & JSW Group",
+      "founded": 2008,
+      "titles": 0,
+      "lastTitle": null,
+      "primaryColor": "#0078BC",
+      "secondaryColor": "#FF0000",
+      "players": [
+        { "name": "Rishabh Pant", "role": "Wicket-keeper", "nationality": "Indian", "battingStyle": "Left-handed", "bowlingStyle": "Right-arm off-break" },
+        { "name": "David Warner", "role": "Batsman", "nationality": "Australian", "battingStyle": "Left-handed", "bowlingStyle": "Right-arm leg-break" },
+        { "name": "Axar Patel", "role": "All-rounder", "nationality": "Indian", "battingStyle": "Left-handed", "bowlingStyle": "Left-arm orthodox" },
+        { "name": "Anrich Nortje", "role": "Bowler", "nationality": "South African", "battingStyle": "Right-handed", "bowlingStyle": "Right-arm fast" }
+      ],
+      "stats": {
+        "matchesPlayed": 14,
+        "wins": 8,
+        "losses": 6,
+        "winPercentage": 57.1,
+        "totalRuns": 2412,
+        "totalWickets": 87
+      }
+    },
+    {
+      "id": 4,
+      "name": "Kolkata Knight Riders",
+      "shortName": "KKR",
+      "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/4/4c/Kolkata_Knight_Riders_Logo.svg/1200px-Kolkata_Knight_Riders_Logo.svg.png",
+      "homeVenue": "Eden Gardens, Kolkata",
+      "captain": "Shreyas Iyer",
+      "coach": "Chandrakant Pandit",
+      "owner": "Knight Riders Sports Private Ltd",
+      "founded": 2008,
+      "titles": 2,
+      "lastTitle": 2014,
+      "primaryColor": "#2E0854",
+      "secondaryColor": "#FFD700",
+      "players": [
+        { "name": "Shreyas Iyer", "role": "Batsman", "nationality": "Indian", "battingStyle": "Right-handed", "bowlingStyle": "Right-arm leg-break" },
+        { "name": "Andre Russell", "role": "All-rounder", "nationality": "West Indian", "battingStyle": "Right-handed", "bowlingStyle": "Right-arm fast" },
+        { "name": "Sunil Narine", "role": "All-rounder", "nationality": "West Indian", "battingStyle": "Left-handed", "bowlingStyle": "Right-arm off-break" },
+        { "name": "Varun Chakravarthy", "role": "Bowler", "nationality": "Indian", "battingStyle": "Right-handed", "bowlingStyle": "Right-arm leg-break" }
+      ],
+      "stats": {
+        "matchesPlayed": 14,
+        "wins": 10,
+        "losses": 4,
+        "winPercentage": 71.4,
+        "totalRuns": 2654,
+        "totalWickets": 94
+      }
+    },
+    {
+      "id": 5,
+      "name": "Royal Challengers Bengaluru",
+      "shortName": "RCB",
+      "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/2/2b/Royal_Challengers_Bangalore_logo.svg/1200px-Royal_Challengers_Bangalore_logo.svg.png",
+      "homeVenue": "M. Chinnaswamy Stadium, Bengaluru",
+      "captain": "Faf du Plessis",
+      "coach": "Andy Flower",
+      "owner": "United Spirits",
+      "founded": 2008,
+      "titles": 0,
+      "lastTitle": null,
+      "primaryColor": "#D1171E",
+      "secondaryColor": "#000000",
+      "players": [
+        { "name": "Faf du Plessis", "role": "Batsman", "nationality": "South African", "battingStyle": "Right-handed", "bowlingStyle": "Right-arm leg-break" },
+        { "name": "Virat Kohli", "role": "Batsman", "nationality": "Indian", "battingStyle": "Right-handed", "bowlingStyle": "Right-arm medium" },
+        { "name": "Glenn Maxwell", "role": "All-rounder", "nationality": "Australian", "battingStyle": "Right-handed", "bowlingStyle": "Right-arm off-break" },
+        { "name": "Mohammed Siraj", "role": "Bowler", "nationality": "Indian", "battingStyle": "Right-handed", "bowlingStyle": "Right-arm fast-medium" }
+      ],
+      "stats": {
+        "matchesPlayed": 14,
+        "wins": 6,
+        "losses": 8,
+        "winPercentage": 42.9,
+        "totalRuns": 2289,
+        "totalWickets": 76
+      }
+    },
+    {
+      "id": 6,
+      "name": "Sunrisers Hyderabad",
+      "shortName": "SRH",
+      "logo": "https://icon2.cleanpng.com/20180330/fqe/avc4ftbcm.webp",
+      "homeVenue": "Rajiv Gandhi International Stadium, Hyderabad",
+      "captain": "Pat Cummins",
+      "coach": "Daniel Vettori",
+      "owner": "Sun TV Network",
+      "founded": 2013,
+      "titles": 1,
+      "lastTitle": 2016,
+      "primaryColor": "#FF822A",
+      "secondaryColor": "#000000",
+      "players": [
+        { "name": "Pat Cummins", "role": "Bowler", "nationality": "Australian", "battingStyle": "Right-handed", "bowlingStyle": "Right-arm fast" },
+        { "name": "Aiden Markram", "role": "Batsman", "nationality": "South African", "battingStyle": "Right-handed", "bowlingStyle": "Right-arm off-break" },
+        { "name": "Heinrich Klaasen", "role": "Wicket-keeper", "nationality": "South African", "battingStyle": "Right-handed", "bowlingStyle": "Right-arm off-break" },
+        { "name": "Bhuvneshwar Kumar", "role": "Bowler", "nationality": "Indian", "battingStyle": "Right-handed", "bowlingStyle": "Right-arm medium-fast" }
+      ],
+      "stats": {
+        "matchesPlayed": 14,
+        "wins": 9,
+        "losses": 5,
+        "winPercentage": 64.3,
+        "totalRuns": 2512,
+        "totalWickets": 91
+      }
+    }
+  ]
+} 

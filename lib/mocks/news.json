@@ -1,0 +1,84 @@
+{
+  "news": [
+    {
+      "id": 1,
+      "title": "Virat Kohli Breaks IPL Run Record in Spectacular Fashion",
+      "summary": "Royal Challengers Bengaluru's Virat Kohli became the highest run-scorer in IPL history with a magnificent century against Mumbai Indians.",
+      "content": "In a historic moment at the M. Chinnaswamy Stadium, Virat Kohli surpassed the previous record of 7,000 IPL runs with a stunning 113* off just 58 balls. The RCB captain's innings included 12 fours and 4 sixes, showcasing his class and determination. This achievement cements his legacy as one of the greatest batsmen in IPL history.",
+      "category": "Breaking News",
+      "author": "Cricket Correspondent",
+      "publishedAt": "2025-04-10T10:30:00Z",
+      "image": "https://images.unsplash.com/photo-1540747913346-19e32dc3e97e?w=800",
+      "tags": ["Virat Kohli", "RCB", "Records", "Century"],
+      "readTime": "3 min read"
+    },
+    {
+      "id": 2,
+      "title": "MS Dhoni Confirms 2025 as His Last IPL Season",
+      "summary": "Chennai Super Kings captain MS Dhoni has officially announced that IPL 2025 will be his final season in the tournament.",
+      "content": "In an emotional press conference at the Chepauk Stadium, MS Dhoni confirmed what fans had been fearing - IPL 2025 will be his last. The legendary captain, who has led CSK to 5 IPL titles, said he wants to give his best in his final season and hopes to end on a high note. Fans across the world have expressed their gratitude for his contribution to cricket.",
+      "category": "Announcement",
+      "author": "Sports Reporter",
+      "publishedAt": "2025-04-09T15:45:00Z",
+      "image": "https://images.unsplash.com/photo-1571019613454-1cb2f99b2d8b?w=800",
+      "tags": ["MS Dhoni", "CSK", "Retirement", "IPL 2025"],
+      "readTime": "4 min read"
+    },
+    {
+      "id": 3,
+      "title": "Jasprit Bumrah's 5-Wicket Haul Destroys Opposition",
+      "summary": "Mumbai Indians' pace spearhead Jasprit Bumrah delivered a masterclass in fast bowling with figures of 5/21 against Delhi Capitals.",
+      "content": "Jasprit Bumrah's exceptional bowling performance helped Mumbai Indians secure a comprehensive victory over Delhi Capitals. His 5-wicket haul included the crucial wickets of David Warner, Rishabh Pant, and Axar Patel. The Indian pacer's yorkers and slower deliveries left the opposition batsmen clueless, earning him the Player of the Match award.",
+      "category": "Match Report",
+      "author": "Bowling Analyst",
+      "publishedAt": "2025-04-08T20:15:00Z",
+      "image": "https://images.unsplash.com/photo-1578662996442-48f60103fc96?w=800",
+      "tags": ["Jasprit Bumrah", "MI", "5-wicket haul", "Bowling"],
+      "readTime": "2 min read"
+    },
+    {
+      "id": 4,
+      "title": "Sunrisers Hyderabad's Record-Breaking 287/3 Against RCB",
+      "summary": "Sunrisers Hyderabad posted the highest team total in IPL history, scoring 287/3 against Royal Challengers Bengaluru.",
+      "content": "In a batting masterclass, Sunrisers Hyderabad shattered the previous IPL record for highest team total. Travis Head's blistering 102 off 39 balls and Heinrich Klaasen's 67 off 31 balls were the highlights of the innings. The team hit 22 sixes and 19 fours in their 20 overs, leaving RCB's bowlers helpless.",
+      "category": "Match Report",
+      "author": "Batting Specialist",
+      "publishedAt": "2025-04-07T18:30:00Z",
+      "image": "https://images.unsplash.com/photo-1544551763-46a013bb70d5?w=800",
+      "tags": ["SRH", "Record", "287 runs", "Travis Head"],
+      "readTime": "3 min read"
+    },
+    {
+      "id": 5,
+      "title": "IPL 2025 Playoff Race Heats Up",
+      "summary": "With just two weeks remaining in the league stage, the race for IPL 2025 playoffs is intensifying with multiple teams in contention.",
+      "content": "The IPL 2025 playoff race is reaching its climax with Kolkata Knight Riders and Sunrisers Hyderabad already qualified. Delhi Capitals, Chennai Super Kings, and Mumbai Indians are fighting for the remaining two spots. The final league matches promise to be thrilling as teams battle for playoff berths.",
+      "category": "Analysis",
+      "author": "Cricket Analyst",
+      "publishedAt": "2025-04-06T12:00:00Z",
+      "image": "https://images.unsplash.com/photo-1578662996442-48f60103fc96?w=800",
+      "tags": ["Playoffs", "KKR", "SRH", "Race"],
+      "readTime": "5 min read"
+    },
+    {
+      "id": 6,
+      "title": "Young Talent Spotlight: Riyan Parag's Breakthrough Season",
+      "summary": "Rajasthan Royals' Riyan Parag has emerged as one of the most exciting young talents in IPL 2025 with consistent performances.",
+      "content": "Riyan Parag's transformation in IPL 2025 has been remarkable. The 22-year-old has scored 573 runs in 14 matches with an average of 40.93 and strike rate of 149.22. His ability to finish games and handle pressure situations has made him a key player for Rajasthan Royals and a strong contender for the Emerging Player award.",
+      "category": "Player Profile",
+      "author": "Youth Cricket Expert",
+      "publishedAt": "2025-04-05T14:20:00Z",
+      "image": "https://images.unsplash.com/photo-1571019613454-1cb2f99b2d8b?w=800",
+      "tags": ["Riyan Parag", "RR", "Young Talent", "Breakthrough"],
+      "readTime": "4 min read"
+    }
+  ],
+  "categories": [
+    "Breaking News",
+    "Match Report", 
+    "Player Profile",
+    "Analysis",
+    "Announcement",
+    "Interview"
+  ]
+} 

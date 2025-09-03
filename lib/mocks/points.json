@@ -1,0 +1,10 @@
+{
+  "data": {
+    "standings": [
+      { "team": "Kolkata Knight Riders", "played": 14, "wins": 10, "losses": 4, "points": 20, "nrr": "+1.428", "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/4/4c/Kolkata_Knight_Riders_Logo.svg/1200px-Kolkata_Knight_Riders_Logo.svg.png" },
+      { "team": "Sunrisers Hyderabad", "played": 14, "wins": 9, "losses": 5, "points": 18, "nrr": "+0.912", "logo": "https://icon2.cleanpng.com/20180330/fqe/avc4ftbcm.webp" },
+      { "team": "Delhi Capitals", "played": 14, "wins": 8, "losses": 6, "points": 16, "nrr": "+0.103", "logo": "https://i.pinimg.com/564x/95/7f/9c/957f9cc51341fc7b3d06ad6a2129d5cc.jpg" },
+      { "team": "Mumbai Indians", "played": 14, "wins": 7, "losses": 7, "points": 14, "nrr": "-0.051", "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/c/cd/Mumbai_Indians_Logo.svg/1200px-Mumbai_Indians_Logo.svg.png" }
+    ]
+  }
+} 

@@ -1,0 +1,21 @@
+{
+  "data": [
+    {
+      "series": "TATA IPL 2025",
+      "matchType": "T20",
+      "venue": "Wankhede Stadium, Mumbai",
+      "status": "Mumbai Indians need 45 runs in 30 balls",
+      "teamInfo": [
+        { "id": 1, "name": "Mumbai Indians", "shortname": "MI", "image": "https://upload.wikimedia.org/wikipedia/en/thumb/c/cd/Mumbai_Indians_Logo.svg/1200px-Mumbai_Indians_Logo.svg.png" },
+        { "id": 2, "name": "Chennai Super Kings", "shortname": "CSK", "image": "https://upload.wikimedia.org/wikipedia/en/thumb/2/2b/Chennai_Super_Kings_Logo.svg/800px-Chennai_Super_Kings_Logo.svg.png" }
+      ],
+      "score": [
+        { "r": 152, "w": 4, "o": 16.0 },
+        { "r": 196, "w": 7, "o": 20.0 }
+      ],
+      "started": true,
+      "completed": false,
+      "dateTimeGMT": "2025-04-10T14:00:00Z"
+    }
+  ]
+} 

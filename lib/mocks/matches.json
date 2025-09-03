@@ -1,0 +1,42 @@
+{
+  "data": {
+    "matches": [
+      {
+        "series": "TATA IPL 2025",
+        "matchType": "T20",
+        "venue": "Arun Jaitley Stadium, Delhi",
+        "teamInfo": [
+          { "id": 3, "name": "Delhi Capitals", "shortname": "DC", "image": "https://i.pinimg.com/564x/95/7f/9c/957f9cc51341fc7b3d06ad6a2129d5cc.jpg" },
+          { "id": 4, "name": "Kolkata Knight Riders", "shortname": "KKR", "image": "https://upload.wikimedia.org/wikipedia/en/thumb/4/4c/Kolkata_Knight_Riders_Logo.svg/1200px-Kolkata_Knight_Riders_Logo.svg.png" }
+        ],
+        "dateTimeGMT": "2025-04-12T14:00:00Z",
+        "started": false,
+        "completed": false
+      },
+      {
+        "series": "TATA IPL 2025",
+        "matchType": "T20",
+        "venue": "M. Chinnaswamy Stadium, Bengaluru",
+        "teamInfo": [
+          { "id": 5, "name": "Royal Challengers Bengaluru", "shortname": "RCB", "image": "https://upload.wikimedia.org/wikipedia/en/thumb/2/2b/Royal_Challengers_Bangalore_logo.svg/1200px-Royal_Challengers_Bangalore_logo.svg.png" },
+          { "id": 6, "name": "Sunrisers Hyderabad", "shortname": "SRH", "image": "https://icon2.cleanpng.com/20180330/fqe/avc4ftbcm.webp" }
+        ],
+        "dateTimeGMT": "2025-04-14T14:00:00Z",
+        "started": false,
+        "completed": false
+      },
+      {
+        "series": "TATA IPL 2025",
+        "matchType": "T20",
+        "venue": "Eden Gardens, Kolkata",
+        "teamInfo": [
+          { "id": 4, "name": "Kolkata Knight Riders", "shortname": "KKR", "image": "https://upload.wikimedia.org/wikipedia/en/thumb/4/4c/Kolkata_Knight_Riders_Logo.svg/1200px-Kolkata_Knight_Riders_Logo.svg.png" },
+          { "id": 1, "name": "Mumbai Indians", "shortname": "MI", "image": "https://upload.wikimedia.org/wikipedia/en/thumb/c/cd/Mumbai_Indians_Logo.svg/1200px-Mumbai_Indians_Logo.svg.png" }
+        ],
+        "dateTimeGMT": "2025-04-16T14:00:00Z",
+        "started": false,
+        "completed": false
+      }
+    ]
+  }
+} 

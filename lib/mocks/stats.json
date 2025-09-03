@@ -1,0 +1,71 @@
+{
+  "battingStats": {
+    "topRunScorers": [
+      { "name": "Virat Kohli", "team": "RCB", "runs": 741, "matches": 14, "average": 52.93, "strikeRate": 154.69, "fifties": 5, "hundreds": 1 },
+      { "name": "Ruturaj Gaikwad", "team": "CSK", "runs": 689, "matches": 14, "average": 49.21, "strikeRate": 147.23, "fifties": 4, "hundreds": 1 },
+      { "name": "Riyan Parag", "team": "RR", "runs": 573, "matches": 14, "average": 40.93, "strikeRate": 149.22, "fifties": 3, "hundreds": 0 },
+      { "name": "Travis Head", "team": "SRH", "runs": 567, "matches": 14, "average": 40.50, "strikeRate": 191.55, "fifties": 2, "hundreds": 1 },
+      { "name": "Sanju Samson", "team": "RR", "runs": 531, "matches": 14, "average": 37.93, "strikeRate": 153.47, "fifties": 3, "hundreds": 0 }
+    ],
+    "mostFifties": [
+      { "name": "Virat Kohli", "team": "RCB", "fifties": 5 },
+      { "name": "Ruturaj Gaikwad", "team": "CSK", "fifties": 4 },
+      { "name": "Riyan Parag", "team": "RR", "fifties": 3 },
+      { "name": "Sanju Samson", "team": "RR", "fifties": 3 },
+      { "name": "KL Rahul", "team": "LSG", "fifties": 3 }
+    ],
+    "highestStrikeRate": [
+      { "name": "Travis Head", "team": "SRH", "strikeRate": 191.55 },
+      { "name": "Andre Russell", "team": "KKR", "strikeRate": 184.12 },
+      { "name": "Glenn Maxwell", "team": "RCB", "strikeRate": 173.45 },
+      { "name": "Heinrich Klaasen", "team": "SRH", "strikeRate": 171.23 },
+      { "name": "Rishabh Pant", "team": "DC", "strikeRate": 168.90 }
+    ]
+  },
+  "bowlingStats": {
+    "topWicketTakers": [
+      { "name": "Jasprit Bumrah", "team": "MI", "wickets": 20, "matches": 14, "average": 16.95, "economy": 6.48, "best": "5/21" },
+      { "name": "Harshal Patel", "team": "PBKS", "wickets": 19, "matches": 14, "average": 19.68, "economy": 9.73, "best": "3/15" },
+      { "name": "Varun Chakravarthy", "team": "KKR", "wickets": 18, "matches": 14, "average": 20.83, "economy": 8.15, "best": "4/23" },
+      { "name": "T Natarajan", "team": "SRH", "wickets": 17, "matches": 14, "average": 21.47, "economy": 8.95, "best": "4/19" },
+      { "name": "Arshdeep Singh", "team": "PBKS", "wickets": 16, "matches": 14, "average": 22.31, "economy": 9.12, "best": "4/29" }
+    ],
+    "bestEconomy": [
+      { "name": "Jasprit Bumrah", "team": "MI", "economy": 6.48 },
+      { "name": "Sunil Narine", "team": "KKR", "economy": 6.89 },
+      { "name": "Rashid Khan", "team": "GT", "economy": 7.12 },
+      { "name": "Varun Chakravarthy", "team": "KKR", "economy": 8.15 },
+      { "name": "Yuzvendra Chahal", "team": "RR", "economy": 8.23 }
+    ],
+    "mostDotBalls": [
+      { "name": "Jasprit Bumrah", "team": "MI", "dotBalls": 156 },
+      { "name": "Harshal Patel", "team": "PBKS", "dotBalls": 142 },
+      { "name": "Arshdeep Singh", "team": "PBKS", "dotBalls": 138 },
+      { "name": "T Natarajan", "team": "SRH", "dotBalls": 134 },
+      { "name": "Varun Chakravarthy", "team": "KKR", "dotBalls": 128 }
+    ]
+  },
+  "teamStats": {
+    "highestTeamScore": [
+      { "team": "SRH", "score": "287/3", "opponent": "RCB", "date": "2024-04-15" },
+      { "team": "KKR", "score": "272/7", "opponent": "DC", "date": "2024-04-03" },
+      { "team": "SRH", "score": "266/7", "opponent": "DC", "date": "2024-04-20" },
+      { "team": "RCB", "score": "263/5", "opponent": "PBKS", "date": "2024-04-25" },
+      { "team": "MI", "score": "246/5", "opponent": "SRH", "date": "2024-04-27" }
+    ],
+    "lowestTeamScore": [
+      { "team": "DC", "score": "83/10", "opponent": "KKR", "date": "2024-04-03" },
+      { "team": "PBKS", "score": "92/10", "opponent": "SRH", "date": "2024-04-09" },
+      { "team": "RR", "score": "101/10", "opponent": "GT", "date": "2024-04-10" },
+      { "team": "CSK", "score": "109/10", "opponent": "MI", "date": "2024-04-14" },
+      { "team": "LSG", "score": "115/10", "opponent": "KKR", "date": "2024-04-05" }
+    ],
+    "mostSixes": [
+      { "team": "SRH", "sixes": 146 },
+      { "team": "RCB", "sixes": 132 },
+      { "team": "KKR", "sixes": 128 },
+      { "team": "MI", "sixes": 115 },
+      { "team": "CSK", "sixes": 98 }
+    ]
+  }
+} 
