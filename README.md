@@ -2,6 +2,10 @@
 
 A modern, responsive web application built with Next.js and React that provides comprehensive information about the Indian Premier League (IPL). This dashboard offers real-time match updates, team statistics, player information, and much more in an intuitive and visually appealing interface.
 
+## 🌐 Live Demo
+
+**View the live application:** [https://ipl-cricket.netlify.app/](https://ipl-cricket.netlify.app/)
+
 ## ✨ Features
 
 ### 🏠 **Home Dashboard**
@@ -171,3 +175,13 @@ This project is open source and available under the [MIT License](LICENSE).
 
 **Anurag Pant**
 - GitHub: [@AnuragPant01](https://github.com/AnuragPant01)
+
+---
+
+**Made with ❤️ for cricket fans and IPL enthusiasts**
+
+---
+
+## 🏷️ Tags
+
+`#ipl` `#cricket` `#dashboard` `#nextjs` `#react` `#typescript` `#tailwindcss` `#sports-app` `#cricket-stats` `#ipl-2025` `#cricket-dashboard` `#web-app` `#responsive-design` `#modern-ui` `#cricket-fans` `#ipl-stats` `#match-scores` `#team-stats` `#player-stats` `#cricket-news` `#ipl-highlights`

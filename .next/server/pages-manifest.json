@@ -1,12 +1,1 @@
-{
-  "/_app": "pages/_app.js",
-  "/_error": "pages/_error.js",
-  "/_document": "pages/_document.js",
-  "/": "pages/index.js",
-  "/stats": "pages/stats.js",
-  "/points-table": "pages/points-table.js",
-  "/matches": "pages/matches.js",
-  "/teams": "pages/teams.js",
-  "/news": "pages/news.js",
-  "/api/ipl": "pages/api/ipl.js"
-}
+{"/_app":"pages/_app.js","/api/ipl":"pages/api/ipl.js","/":"pages/index.html","/matches":"pages/matches.html","/news":"pages/news.html","/points-table":"pages/points-table.html","/stats":"pages/stats.html","/teams":"pages/teams.html","/_error":"pages/_error.js","/_document":"pages/_document.js","/404":"pages/404.html"}
